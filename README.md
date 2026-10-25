@@ -1,103 +1,89 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3DDC84&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Atikz+%F0%9F%91%8B;AI+Enthusiast+%C2%B7+Android+Tinkerer;Custom+ROMs+%C2%B7+Open+Source+%C2%B7+Always+Learning" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=4t1k-tec&label=Profile+Views&color=3DDC84&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/4t1k-tec?label=Followers&style=flat-square&color=3DDC84" alt="Followers" />
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Atikz**: a builder obsessed with the intersection of **Artificial Intelligence** and **Android software**. I like understanding how things work under the hood, then bending them to do something better.
-
-- 🤖 Exploring **AI**, **LLMs**, and **prompt engineering**
-- 📱 Digging into **Android internals** and **custom ROMs**
-- 🛠️ Building lightweight tools and apps, and sharing what I learn
-- 🌱 Currently learning: *more every day*
-
----
-
-## 🎯 Focus Areas
-
-| Area | What I'm into |
-|:--|:--|
-| 🧠 **Artificial Intelligence** | LLMs, prompt engineering, AI-assisted workflows |
-| 📱 **Android Software** | App development, system customization, optimization |
-| 💿 **Custom ROMs** | ROM exploration, flashing, tweaks, and debloating |
-| 🌐 **Web & Tools** | Clean, lightweight, single-purpose utilities |
-
----
-
-## 🧰 Tech Stack
+# ⚡ 4t1k-tec | Cyberpunk Developer
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:10102b,100:00F5FF&height=220&section=header&text=4t1k-tec&fontSize=65&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=ENTER%20THE%20DIGITAL%20FRONTIER&descAlignY=60&descSize=16" width="100%" alt="Cyberpunk animated banner"/>
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=4t1k-tec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4t1k-tec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%BE;Welcome+to+my+digital+universe;Tech+Enthusiast+%7C+Creative+Mind;Exploring+Code%2C+Design+%26+Technology;SYSTEM+ONLINE...+%E2%9C%93" alt="Animated typing introduction"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=4t1k-tec&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/4t1k-tec)
+[![Facebook](https://img.shields.io/badge/Facebook-0A0A0A?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/fb.atikul)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF00FF)](https://www.instagram.com/ig.atikul)
+[![Reddit](https://img.shields.io/badge/Reddit-0A0A0A?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/4tikul)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/atikbit)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `> WHOAMI`
 
-<!--
-  Pin your best repos on your profile, then describe them here. Example:
+```text
+USER       : 4t1k-tec
+IDENTITY   : Tech Enthusiast & Creative Explorer
+INTERESTS  : Development, UI/UX, Digital Design
+MISSION    : Turning creative ideas into digital experiences
+LOCATION   : Bangladesh 🇧🇩
+STATUS     : Always Learning // Always Building
+```
 
-  | Project | Description | Stack |
-  |:--|:--|:--|
-  | [**project-name**](https://github.com/4t1k-tec/project-name) | One-line description | Kotlin |
--->
+Hey there! 👋 Welcome to my digital space.
 
-> 🔧 Cooking something good. Check my **pinned repositories** above for the latest.
+I'm **Atik**, a technology enthusiast interested in creative digital experiences, modern interfaces, software, and exploring new ideas. I enjoy discovering tools, experimenting with projects, and finding better ways to bring ideas to life.
 
----
+> ⚡ Think creatively. Build intelligently. Keep exploring.
 
-## 🌍 Let's Connect
+## `> CURRENT_MISSION`
+
+- 💻 Exploring software development and digital tools.
+- 🎨 Interested in creative design and modern UI/UX.
+- 📱 Exploring mobile technology and Android app concepts.
+- 🧪 Experimenting with ideas and learning new technologies.
+- 🚀 Building my digital journey, one project at a time.
+
+## `> TECH_INTERESTS`
 
 <div align="center">
 
-<a href="https://www.facebook.com/fb.atikul"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/ig.atikul"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.reddit.com/user/4tikul"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-<a href="https://x.com/atikbit"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=FF5722)
+![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=00A8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00F5FF)
+![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=FF4500)
+![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=00F5FF)
+![Figma](https://img.shields.io/badge/Figma-101010?style=for-the-badge&logo=figma&logoColor=FF00FF)
+![Android](https://img.shields.io/badge/Android-101010?style=for-the-badge&logo=android&logoColor=39FF14)
 
 </div>
 
----
+*These are areas of interest, not a claim of proficiency in every technology.*
+
+## `> GITHUB_ANALYTICS`
 
 <div align="center">
 
-💡 *"Tinker. Break. Rebuild. Repeat."*
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=4t1k-tec&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:0D1117&height=100&section=footer" alt="footer" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4t1k-tec&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Most used programming languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4t1k-tec&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=808080" alt="GitHub contribution streak"/>
+
+</div>
+
+## `> CONNECT_TO_NETWORK`
+
+Interested in technology, creative projects, or collaborating on something interesting? Let's connect.
+
+<div align="center">
+
+[**Facebook**](https://www.facebook.com/fb.atikul) · [**Instagram**](https://www.instagram.com/ig.atikul) · [**Reddit**](https://www.reddit.com/user/4tikul) · [**X / Twitter**](https://x.com/atikbit)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:10102b,100:050505&height=110&section=footer" width="100%" alt="Neon cyberpunk footer"/>
+
+**`[ END OF TRANSMISSION ]`**
+
+<sub>⚡ Powered by curiosity. Designed for the future. 🌌</sub>
 
 </div>
