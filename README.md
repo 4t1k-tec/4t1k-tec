@@ -1,4 +1,4 @@
-# Mr.4t1k-tec | 
+# Mr.4t1k-tec  
 
 <div align="center">
 
