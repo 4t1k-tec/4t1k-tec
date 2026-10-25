@@ -1,4 +1,4 @@
-# ⚡ 4t1k-tec | Cyberpunk Developer
+# ⚡ 4t1k-tec | 
 
 <div align="center">
 
